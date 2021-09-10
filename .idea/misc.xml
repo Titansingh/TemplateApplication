@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/vaibh/AndroidStudioProjects/TemplateApplication/app/src/main/res/drawable/button_bg.xml" value="0.290625" />
+        <entry key="..\:/Users/vaibh/AndroidStudioProjects/TemplateApplication/app/src/main/res/drawable/edit_bg.xml" value="0.290625" />
+        <entry key="..\:/Users/vaibh/AndroidStudioProjects/TemplateApplication/app/src/main/res/drawable/tab_bg.xml" value="0.290625" />
+        <entry key="..\:/Users/vaibh/AndroidStudioProjects/TemplateApplication/app/src/main/res/drawable/vd_pathmorph_drawer_hamburger.xml" value="0.1953125" />
+        <entry key="..\:/Users/vaibh/AndroidStudioProjects/TemplateApplication/app/src/main/res/drawable/vie_bg.xml" value="0.290625" />
+        <entry key="..\:/Users/vaibh/AndroidStudioProjects/TemplateApplication/app/src/main/res/layout/activity_login.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/vaibh/AndroidStudioProjects/TemplateApplication/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/vaibh/AndroidStudioProjects/TemplateApplication/app/src/main/res/layout/drawer_menu.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/vaibh/AndroidStudioProjects/TemplateApplication/app/src/main/res/layout/fragment_login__tab_.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/vaibh/AndroidStudioProjects/TemplateApplication/app/src/main/res/layout/fragment_news.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/vaibh/AndroidStudioProjects/TemplateApplication/app/src/main/res/layout/fragment_signup__tab_.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/vaibh/AndroidStudioProjects/TemplateApplication/app/src/main/res/layout/item_option.xml" value="0.27447916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
